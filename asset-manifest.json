@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/TnLima/dio-clone/static/js/main.9654af0c.js",
-    "static/media/banner.svg": "/TnLima/dio-clone/static/media/banner.b8a88681119e711b1dc1ee52fa968dfd.svg",
-    "static/media/logo-dio.svg": "/TnLima/dio-clone/static/media/logo-dio.6eca4efa0470f1a79b5380949e2d781b.svg",
-    "index.html": "/TnLima/dio-clone/index.html",
-    "main.9654af0c.js.map": "/TnLima/dio-clone/static/js/main.9654af0c.js.map"
+    "main.js": "/dio-clone/static/js/main.e0dc90ff.js",
+    "static/media/banner.svg": "/dio-clone/static/media/banner.b8a88681119e711b1dc1ee52fa968dfd.svg",
+    "static/media/logo-dio.svg": "/dio-clone/static/media/logo-dio.6eca4efa0470f1a79b5380949e2d781b.svg",
+    "index.html": "/dio-clone/index.html",
+    "main.e0dc90ff.js.map": "/dio-clone/static/js/main.e0dc90ff.js.map"
   },
   "entrypoints": [
-    "static/js/main.9654af0c.js"
+    "static/js/main.e0dc90ff.js"
   ]
 }
