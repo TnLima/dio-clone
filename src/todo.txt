@@ -1,0 +1,7 @@
+FEED:
+#Tornar responsivo (feito)
+#Arrumar elementos do Header (feito)
+#Tornar design mais próximo do site real (feito)
+
+Header:
+#Falta ícone burger em modo responsivo (feito)
