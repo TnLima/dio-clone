@@ -22,7 +22,7 @@ const Header = ({ autenticado }) => {
     <Wrapper>
       <Container>
         <Row>
-          <a href="/">
+          <a href="#/">
             <img src={logo} alt="Logo da DIO" />
           </a>
           {autenticado ? (
@@ -142,11 +142,11 @@ const Header = ({ autenticado }) => {
               </MenuRigth>
 
               <MainButtons className="barItems">
-                <a href="/Feed">
+                <a href="#/Feed">
                   <Button title="Entrar" />
                 </a>
 
-                <a href="/Cadastro">
+                <a href="#/Cadastro">
                   <Button
                     class="criarconta"
                     title="Criar Conta"

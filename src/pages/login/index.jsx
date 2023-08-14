@@ -38,7 +38,7 @@ const Login = () => {
       );
 
       if (data.length && data[0].id) {
-        navigate("/feed");
+        navigate("#/feed");
         return;
       }
 
@@ -89,7 +89,7 @@ const Login = () => {
             </form>
             <Row>
               <EsqueciText>Esqueci minha senha</EsqueciText>
-              <CriarText href="/Cadastro">Criar Conta</CriarText>
+              <CriarText href="#/Cadastro">Criar Conta</CriarText>
             </Row>
           </Wrapper>
         </Column>

@@ -124,7 +124,7 @@ const Cadastro = () => {
 
             <div>
               Já tenho conta.
-              <CriarText href="/Login"> Fazer Login.</CriarText>
+              <CriarText href='#/Login'> Fazer Login.</CriarText>
             </div>
           </Wrapper>
         </Column>
