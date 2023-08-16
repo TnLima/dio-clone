@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/dio-clone/static/js/main.d8a512b3.js",
+    "main.js": "/dio-clone/static/js/main.f64c8724.js",
     "static/media/banner.svg": "/dio-clone/static/media/banner.b8a88681119e711b1dc1ee52fa968dfd.svg",
     "static/media/logo-dio.svg": "/dio-clone/static/media/logo-dio.6eca4efa0470f1a79b5380949e2d781b.svg",
     "index.html": "/dio-clone/index.html",
-    "main.d8a512b3.js.map": "/dio-clone/static/js/main.d8a512b3.js.map"
+    "main.f64c8724.js.map": "/dio-clone/static/js/main.f64c8724.js.map"
   },
   "entrypoints": [
-    "static/js/main.d8a512b3.js"
+    "static/js/main.f64c8724.js"
   ]
 }
