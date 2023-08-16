@@ -1,16 +1,16 @@
 import React from "react";
 
 import {
-  BuscarInputContainer,
-  Column,
-  Container,
-  Input,
-  Menu,
-  MenuRigth,
-  Row,
-  UserPicture,
+  // BuscarInputContainer,
+  // Column,
+  // Container,
+  // Input,
+  // Menu,
+  // MenuRigth,
+  // Row,
+  // UserPicture,
   Wrapper,
-  MainButtons
+  // MainButtons
 } from "./styles";
 
 const Footer = () => {

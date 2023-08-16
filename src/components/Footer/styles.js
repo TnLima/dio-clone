@@ -43,6 +43,7 @@ export const Wrapper = styled.div`
   flex-direction: column;
   position: absolute;
   bottom: 0;
+  top: auto;
   height: 90px;
 
   //SOCIALS

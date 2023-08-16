@@ -11,11 +11,32 @@ export const Container = styled.main`
   justify-content: space-between;
   align-items: center;
 
-  @media (max-width: 1000px) {
+  .bannerImage {
+  }
+
+  @media (max-width: 1100px) {
     margin-top: 64px;
     flex-direction: column;
     .bannerImage {
       scale: 80%;
+    }
+  }
+
+  @media (max-width: 450px) {
+    margin-top: 64px;
+    flex-direction: column;
+    .bannerImage {
+      scale: 60%;
+    }
+
+    .bannerText {
+      width: 74vw;
+      font-size: 34px;
+    }
+
+    .subTitle {
+      width: 74vw;
+      font-size: 14px;
     }
   }
 `;
@@ -28,7 +49,6 @@ export const Title = styled.h2`
   width: 320px;
   margin-bottom: 20px;
   line-height: 44px;
-
   color: #ffffff;
 `;
 
