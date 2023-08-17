@@ -138,7 +138,9 @@ const Header = ({ autenticado }) => {
               </MenuRigth>
 
               <MenuRigth className="burgerMenu">
-                <RxHamburgerMenu />
+                <a href="#/Feed">
+                  <RxHamburgerMenu />
+                </a>
               </MenuRigth>
 
               <MainButtons className="barItems">

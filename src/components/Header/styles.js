@@ -22,12 +22,16 @@ export const Container = styled.div`
     }
 
     .burgerMenu {
-      scale:180%;
+      scale: 180%;
       display: block;
       cursor: pointer;
+      text-decoration: none;
+      color: white;
+      a:visited {
+        color: white;
+      }
     }
   }
-  
 `;
 
 export const Row = styled.div`
