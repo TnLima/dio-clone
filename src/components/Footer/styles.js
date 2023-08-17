@@ -34,7 +34,7 @@ export const Column = styled.div`
   align-items: center;
 `;
 export const Wrapper = styled.div`
-  background-color: rgba(0,0,0,.2);
+  background-color: rgba(0, 0, 0, 0.2);
   width: 100%;
   display: flex;
   justify-content: center;
@@ -45,6 +45,15 @@ export const Wrapper = styled.div`
   bottom: 0;
   top: auto;
   height: 90px;
+
+  @media (max-width: 1000px) {
+    bottom: auto;
+  }
+
+  @media (max-width: 280px) {
+    bottom: 0;
+    
+  }
 
   //SOCIALS
   #author {

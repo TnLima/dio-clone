@@ -22,6 +22,12 @@ export const Container = styled.main`
     }
   }
 
+  @media (max-width: 280px) {
+    .bannerImage{
+      display: none;
+    }  
+  }
+
   @media (max-width: 450px) {
     margin-top: 64px;
     flex-direction: column;
